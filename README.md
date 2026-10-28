@@ -375,5 +375,4 @@ No IBM Quantum account is needed; everything runs as an exact local simulation.
 - Qiskit: https://github.com/Qiskit/qiskit · scikit-learn: https://scikit-learn.org
 
 ## Acknowledgement
-Developed with the help of an AI assistant (Claude, by Anthropic) for code, analysis and write-up.
-All results were produced by the code in this repository.
+Developed with the help of an AI (Claude).
